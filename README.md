@@ -1,3 +1,3 @@
 # laboratoryStudies
 
-I will upload the studies given in laboratory sections in my Data Science & Engineering master program
+I will upload my studies on the laboratory exercises given to improve ourselves in my Data Science & Engineering master program
