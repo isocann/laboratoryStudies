@@ -1,3 +1,4 @@
-# laboratoryStudies
+#Without Library Studies
 
-I will upload my studies on the laboratory exercises given to improve ourselves in my Data Science & Engineering master program
+How to read different types of datasets (CSV and JSON). 
+Read the dataset contents from the filesystem into the program’s memory, to then perform several operations on the data.
