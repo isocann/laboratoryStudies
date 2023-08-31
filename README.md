@@ -1,5 +1,9 @@
-# laboratoryStudies
+# FP-Growth and Apriori for Association rules and frequent itemsets
 
-! Files for each different study can be found in branches !
+This task is about frequent itemsets and association rules. Used an existing library that implements Apriori and FP-Growth. Then, own version of Apriori is implemented
 
-I will upload my studies on the laboratory exercises given to improve ourselves in my Data Science & Engineering master program.
+Make sure you have these two libraries installed:
+import mlxtend
+import pandas
+
+Mlxtend (machine learning extensions) is a Python library of useful tools for the day-to-day data science tasks
