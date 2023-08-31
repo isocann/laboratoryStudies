@@ -1,5 +1,3 @@
-# laboratoryStudies
+# KNN Design - Iris
 
-! Files for each different study can be found in branches !
-
-I will upload my studies on the laboratory exercises given to improve ourselves in my Data Science & Engineering master program.
+Building own version of the K-Nearest Neighbors algorithm (a.k.a. KNN) using the NumPy library
