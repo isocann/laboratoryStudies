@@ -1,3 +1,3 @@
-# laboratoryStudies
+# Global Land Temperatures
 
-I will upload my studies on the laboratory exercises given to improve ourselves in my Data Science & Engineering master program
+Tackling the task with tabular input data, learning how to handle anomalies in the data, missing values and more.
