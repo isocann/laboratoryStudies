@@ -1,5 +1,3 @@
-# laboratoryStudies
+# TF-IDF for IMBD reviews
 
-! Files for each different study can be found in branches !
-
-I will upload my studies on the laboratory exercises given to improve ourselves in my Data Science & Engineering master program.
+Tackling the task with textual input data, learning how to handle anomalies in the data, missing values and more.
